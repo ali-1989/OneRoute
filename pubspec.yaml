@@ -1,0 +1,23 @@
+name: one_route
+description: A package for routing and navigation.
+version: 0.0.33
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_web_plugins:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  lints: ^4.0.0
+  test: any
+
+
+flutter:
+
+
